@@ -1,4 +1,4 @@
-# Module siaduoghaiosdgoi
+# Module Helper
 
 module ApplicationHelper
 end
