@@ -18,13 +18,11 @@ Setup
 To interact with the database you need to use the rails console by running the command rails console from the root of the project.
 Author
 
-bust_in_silhouette 
 ## Author1 👤 **Safa Aballagh**
 GitHub: [@Safafa](https://github.com/safafa)
 Twitter: [@Aballagh_S](https://twitter.com/Aballagh_S)
 LinkedIn: [Aballagh Safa](https://www.linkedin.com/in/aballaghsafa/)
 
-bust_in_silhouette 
 ## Author2 👤 **Igor Koloski**
 GitHub: [@igorkol91](https://github.com/igorkol91)
 Twitter: [@Destro49536502](https://twitter.com/Destro49536502)
